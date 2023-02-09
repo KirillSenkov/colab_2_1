@@ -2,4 +2,4 @@
 
 Список клиентов:
 
-theme: Cayman
+theme: Hacker
